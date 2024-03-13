@@ -22,3 +22,14 @@ This project is a web-based CV showcasing my personal and professional informati
 
    ```bash
    git clone https://github.com/wilianto11/cv_wilianto.github.io.git
+
+## Usage
+Feel free to explore the website to learn more about me, my skills, and my projects. You can also contact me through the provided contact information.
+
+## Credits
+- Images: Unsplash
+- Icons: Font Awesome
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
