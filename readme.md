@@ -16,6 +16,10 @@ This project is a web-based CV showcasing my personal and professional informati
 - Certifications section listing my relevant certifications.
 - Contact section providing my contact information and social media links.
 
+## View
+
+link : https://wilianto11.github.io/cv_wilianto.github.io
+
 ## Installation
 
 1. Clone the repository:
